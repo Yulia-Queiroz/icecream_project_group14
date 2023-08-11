@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://funz1k.github.io/teamproject_project14",
+  "homepage": "https://Yulia-Queiroz.github.io/icecream_project_group14",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /teamproject_project14/"
+    "build": "parcel build src/*.html --public-url /icecream_project_group14/"
   },
   "repository": {
     "type": "git",
